@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-<img src= "https://github.com/AbhaBarge/AbhaBarge/assets/122365230/99cc71e1-ccb5-4ee7-ad18-a6e580d34fa0" alt=”my banner”>
+<img img width= "200" height="200" src= "https://github.com/AbhaBarge/AbhaBarge/assets/122365230/99cc71e1-ccb5-4ee7-ad18-a6e580d34fa0" alt=”my banner”>
 </p>
 
 
