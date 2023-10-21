@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src= "https://github.com/AbhaBarge/AbhaBarge/assets/122365230/99cc71e1-ccb5-4ee7-ad18-a6e580d34fa0" alt=”my banner”>
+
+
 - 🔭 I’m currently working on an investment portfolio (educational app) as a college project.
 - 🌱 I’m currently learning about artificial intelligence.
 - 👯 I’m looking to collaborate on open source artificial intelligence projects.
