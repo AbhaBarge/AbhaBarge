@@ -10,6 +10,7 @@
 - ⚡ I am proficient in Java and Python. I was officially in national top 2.5% in Google Girl Hackathon, India 2023 and have won multiple coding competitions. Currently part of SWE's Global CLI program.
 - ✨ I also know HTML-5, Javascript, CSS and Django
 - 😄 Pronouns: She/Her
+- https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 - Currently a Second-Year student at MKSSS's Cummins College of Engineering, Pune, India.
   
 <!--
