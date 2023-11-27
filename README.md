@@ -3,21 +3,14 @@
 
 </p>
 
-- 🌱 I’m currently learning about artificial intelligence.
-- ⚡ I am proficient in Java and Python. I was officially in national top 2.5% in Google Girl Hackathon, India 2023 and have won multiple coding competitions. Currently part of SWE's Global CLI program.
-- ✨ I also know HTML-5, Javascript, CSS, C, Lisp, Scheme and Django
-- 😄 Pronouns: She/Her
-
+- I’m currently learning about artificial intelligence.
+- I am proficient in Java and Python. I was officially amongst the national top 2.5% in Google Girl Hackathon, India 2023; and have won multiple coding competitions. Currently part of SWE's Global CLI program.
+- I also know HTML-5, Javascript, CSS, C, Prolog, Lisp, Scheme and Django
+- Pronouns: She/Her
 - Currently a Second-Year student at MKSSS's Cummins College of Engineering, Pune, India.
-- <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> :
+- <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> : abhanbarge
   
-  abhanbarge
-  
-  [![An image of @abhabarge's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhabarge)](https://holopin.io/@abhabarge)
+  [![An image of @abhabarge's Holopin badges](https://holopin.me/abhabarge)](https://holopin.io/@abhabarge)
 <!--
 **AbhaBarge/AbhaBarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 🔭
-
-
 -->
